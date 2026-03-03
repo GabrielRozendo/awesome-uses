@@ -5876,6 +5876,22 @@ module.exports = [
       'Rust',
       'Go',
     ],
+    {
+    name: 'Gabriel Rozendo',
+    description: 'Software Engineer',
+    url: 'https://rozendo.dev/uses',
+    emoji: '🙃',
+    country: '🇪🇸',
+    computer: 'apple',
+    phone: 'iphone',
+    tags: [
+      'Developer', 
+      'Entrepreneur',
+      'CTO',
+      'Freelancer',
+      'Flutter',
+      'Remote'
+      ],
   },
   {
     name: 'Vega Deftwing',
